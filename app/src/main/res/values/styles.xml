@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/orange</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="button" >
+        <item name="android:onClick">set</item>
+        <item name="android:textSize">90dp</item>
+        <item name="android:text">@string/nul</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+</resources>

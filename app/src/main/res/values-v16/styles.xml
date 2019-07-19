@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button">
+        <item name="android:onClick">set</item>
+        <item name="android:textSize">90dp</item>
+        <item name="android:text">@string/nul</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@font/acme</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="nul"> </string>
+    <string name="tag">Player 1 -> X\nPlayer 2 -> O</string>
+    <string name="sing">YOU -> X\nCOMPUTER -> O</string>
+    <string name="link"><u>Create a new ACCOUNT</u></string>
+</resources>
