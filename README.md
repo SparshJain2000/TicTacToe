@@ -2,7 +2,7 @@
 ## Description
 It is a simple Tic tac toe game .You can login to play the game and sign up as a new user.
 
-You can play as multiplayer with another player and also play as single player.
+You can play in multiplayer with another player and in single player mode.
 
 ## Installation
 Clone this repository and import into **Android Studio**
