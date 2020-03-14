@@ -1,6 +1,7 @@
 # TicTacToe
 ## Description
-It is a simple Tic tac toe game .You can login to play the game and sign up as a new user.
+Android Studio Project
+A Tic tac toe game .Users can login to play the game and sign up as a new user.
 
 You can play in multiplayer with another player and in single player mode.
 
